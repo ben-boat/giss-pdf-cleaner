@@ -1,0 +1,10 @@
+cd C:\PythonEnvs
+
+# Create environment for practice
+python -m venv practice_env
+
+# Create environment for school
+python -m venv school_env
+
+# Create environment for personal project
+python -m venv project_env
