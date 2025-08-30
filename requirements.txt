@@ -1,6 +1,5 @@
 streamlit
+camelot-py[cv]
 pandas
 openpyxl
-Camelot
-tempfile
 os
