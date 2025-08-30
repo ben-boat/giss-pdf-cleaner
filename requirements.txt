@@ -1,5 +1,7 @@
 streamlit
 camelot-py[cv]
+ghostscript
+opencv-python
 pandas
-openpyxl
 os
+tempfile
