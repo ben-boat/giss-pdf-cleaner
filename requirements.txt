@@ -1,5 +1,5 @@
 streamlit
 camelot-py[cv]
 ghostscript
-opencv-python
+opencv-python-headless
 pandas
